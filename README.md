@@ -39,4 +39,4 @@ How to Run
 
 Instructions for compiling and executing the project will be provided here.
 
-Author: Asmila Ali
+Author: Asmila
