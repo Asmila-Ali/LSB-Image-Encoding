@@ -1,0 +1,12 @@
+Compiled files
+*.exe
+*.o
+*.out
+
+Debug files
+*.pdb
+*.ilk
+
+IDE files
+.vscode/
+.idea/
