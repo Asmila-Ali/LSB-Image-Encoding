@@ -25,7 +25,7 @@ Project Structure
 | `encode.h` | Encoding function declarations |
 | `decode.c` | Decoding implementation |
 | `decode.h` | Decoding function declarations |
-| `test_encode.c` | Encoding module test driver |
+| `main.c` | main file |
 
 How It Works
 
